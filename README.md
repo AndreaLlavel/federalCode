@@ -1,10 +1,10 @@
 <h1> Equipo: federalCode</h1>
 <h3>Integrantes:</h3>
 <p>
-✔ Federico Galassi
-✔ Luna Costa
-✔ Clarisa Espertino
-✔ Andrea Llavel
+| ✔ Federico Galassi  |
+| ✔ Luna Costa        |
+| ✔ Clarisa Espertino |
+| ✔ Andrea Llavel     |  
 </p>
 # Missions 1:
 <p>
