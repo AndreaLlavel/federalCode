@@ -1,4 +1,4 @@
-<h1> Equipo: federalCode</h1>
+<h1>Equipo: federalCode</h1>
 <h3>Integrantes:</h3>
 <h2>
 <p>| ✔ Federico Galassi  |</p>
