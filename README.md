@@ -4,7 +4,8 @@
 ✔ Federico Galassi
 ✔ Luna Costa
 ✔ Clarisa Espertino
-✔ Andrea Llavel</p>
+✔ Andrea Llavel
+</p>
 # Missions 1:
 <p>
 Eres la nueva incorporación a la Agencia Digital “Los Patos
