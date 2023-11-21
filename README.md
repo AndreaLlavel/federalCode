@@ -1,11 +1,11 @@
 <h1> Equipo: federalCode</h1>
 <h3>Integrantes:</h3>
-<p>
+<h2>
 <p>| ✔ Federico Galassi  |</p>
 <p>| ✔ Luna Costa        |</p>
 <p>| ✔ Clarisa Espertino |</p>
 <p>| ✔ Andrea Llavel     |</p> 
-</p>
+</h2>
 # Missions 1:
 <p>
 Eres la nueva incorporación a la Agencia Digital “Los Patos
