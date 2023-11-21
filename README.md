@@ -1,11 +1,12 @@
 <h1> Equipo: federalCode</h1>
 <h3>Integrantes:</h3>
-<p></p>Federico Galassi
+<p>
+Federico Galassi
 Luna Costa
 Clarisa Espertino
 Andrea Llavel</p>
-#Trabajo Node
-<p> Missions 1:
+# Missions 1:
+<p>
 Eres la nueva incorporación a la Agencia Digital “Los Patos
 Programadores 🦆” y como primer proyecto te han asignado el
 desarrollo de una tienda en línea de las conocidas figuras coleccionables
