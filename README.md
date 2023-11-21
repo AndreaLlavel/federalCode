@@ -1,11 +1,11 @@
-# Equipo: federalCode
-<h2>Integrantes:
-Federico Galassi
+<h1> Equipo: federalCode</h1>
+<h3>Integrantes:</h3>
+<p></p>Federico Galassi
 Luna Costa
 Clarisa Espertino
-Andrea Llavel</h2>
-Trabajo Node
-# Missions 1:
+Andrea Llavel</p>
+#Trabajo Node
+<p> Missions 1:
 Eres la nueva incorporación a la Agencia Digital “Los Patos
 Programadores 🦆” y como primer proyecto te han asignado el
 desarrollo de una tienda en línea de las conocidas figuras coleccionables
@@ -36,10 +36,10 @@ herramientas:
 - Arquitectura MVC
 - Template Engines
 - MySQL y Gestores de BBDD
-- Sequelize
+- Sequelize</p>
 <br>
-Mission#2 🚀
-¡Continuamos trabajando en nuestro proyecto!
+# Mission#2 🚀
+<p>¡Continuamos trabajando en nuestro proyecto!
 Ahora que contamos con la estructura HTML del proyecto el próximo
 paso es comenzar a maquetar y estilar mediante CSS todos los
-elementos de cada página.
+elementos de cada página.</p>
