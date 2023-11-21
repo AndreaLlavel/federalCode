@@ -1,4 +1,9 @@
-# federalCode
+# Equipo: federalCode
+<h2>Integrantes:
+Federico Galassi
+Luna Costa
+Clarisa Espertino
+Andrea Llavel</h2>
 Trabajo Node
 # Missions 1:
 Eres la nueva incorporación a la Agencia Digital “Los Patos
@@ -33,3 +38,8 @@ herramientas:
 - MySQL y Gestores de BBDD
 - Sequelize
 <br>
+Mission#2 🚀
+¡Continuamos trabajando en nuestro proyecto!
+Ahora que contamos con la estructura HTML del proyecto el próximo
+paso es comenzar a maquetar y estilar mediante CSS todos los
+elementos de cada página.
