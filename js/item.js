@@ -1,4 +1,4 @@
-//Mision 3.Consigna 2: Manipulamos el DOM.
+//Mision 3.Consigna 2: Manipulamos el DOM. Creado para item.html. Andrea Llavel.
 const add = document.querySelector('#add');
 const subtract = document.querySelector('#subtract');
 //Modificar el valor al input
