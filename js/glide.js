@@ -1,3 +1,4 @@
+//Script, en un archivo js. Enlazado a el Index.html y item.html.Andrea Llavel.
 new Glide('.glide', {
     type: 'carousel',
     startAt: 0,
