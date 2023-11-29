@@ -1,8 +1,6 @@
 <h1>Equipo: federalCode</h1>
 <h3>Integrantes:</h3>
 <h2>
-<p>| ✔ Federico Galassi  |</p>
-<p>| ✔ Luna Costa        |</p>
 <p>| ✔ Clarisa Espertino |</p>
 <p>| ✔ Andrea Llavel     |</p> 
 </h2>
